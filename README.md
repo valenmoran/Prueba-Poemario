@@ -40,4 +40,4 @@ No tiene fines comerciales, solo educativos y de práctica.
 
 ## ⚠️ Nota
 Este proyecto es únicamente de **prueba y aprendizaje**.  
-El contenido (poemas e imágenes) se usó solo con fines personales y educativos.
+El contenido (poemas e imágenes) se usó solo con fines personales y educativos, las imagenes fueron generadas por IA.
